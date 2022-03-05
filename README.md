@@ -12,7 +12,7 @@
   
   <p align="center">
     
-  <img width="460" height="" src="https://user-images.githubusercontent.com/69609443/141692593-4b1ee1ba-23d4-435e-bb48-58263181d010.png">
+  <img width="550" height="" src="https://user-images.githubusercontent.com/69609443/141692593-4b1ee1ba-23d4-435e-bb48-58263181d010.png">
 </p>
  
  ## O site tambem é totalmente responsivo📱.
